@@ -29,10 +29,7 @@ jobs:
           echo "Waiting for API..."
           sleep 5
         done
-    
-    - name: Sleep to stabilize 
-      run: sleep 10
-      
+
     - name: Run JMeter test
       run: |
         docker run --rm \
