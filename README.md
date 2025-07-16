@@ -11,7 +11,7 @@ This project contains performance tests designed with Apache JMeter to evaluate 
 - Integration with BlazeMeter for scenario recording
 
 ## 📁 Structure
-![view structure of directory]("./img.png")
+![view structure of directory](./assets/img.png)
 
 
 ## ⚙️ Requirements
