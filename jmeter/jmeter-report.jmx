@@ -21,7 +21,7 @@
       </SetupThreadGroup>
       <hashTree>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="Petición HTTP">
-          <stringProp name="HTTPSampler.domain">dummy-app</stringProp>
+          <stringProp name="HTTPSampler.domain">localhost</stringProp>
           <stringProp name="HTTPSampler.port">3000</stringProp>
           <stringProp name="HTTPSampler.path">/api/ping</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
